@@ -1,5 +1,5 @@
 ## Bug Bounty Platforms
-
+a
 **Open For Signup**
 
 - [HackerOne](https://www.hackerone.com/)
